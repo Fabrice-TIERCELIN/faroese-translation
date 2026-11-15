@@ -1,0 +1,14 @@
+{
+	"name" : "AI translated",
+	"description" : "AI translated by Google Translate",
+	"version" : "1.0",
+	"author" : "Google Translate",
+	"contact" : "",
+	"language" : "faroese",
+	"modType" : "Translation",
+	"translations" : [
+		"config/vcmi-faroese-ai/campaigns.json",
+		"config/vcmi-faroese-ai/maps.json",
+		"config/vcmi-faroese-ai/chronicles.json"
+	]
+}
